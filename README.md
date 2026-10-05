@@ -1,6 +1,6 @@
 # Data Visualization (DV) Python Practicals
 
-This directory contains all the pure **Python** practicals extracted directly from [`piyush_dv.pdf`](file:///c:/Users/rajan/Downloads/DV-Practical/piyush_dv.pdf).
+This directory contains all the pure **Python** practicals .
 
 ---
 
